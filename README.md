@@ -1,4 +1,4 @@
-### Hi my name is... sorry had to do it...👋
+### Hi my name is... sorry had to do it...
 <h2> Information Technology Projects</h2>
 <h1>Coming soon!!<h1>
 
