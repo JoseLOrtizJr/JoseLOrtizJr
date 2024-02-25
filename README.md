@@ -1,4 +1,5 @@
-### Hi my name is... sorry had to do it...
+<h1>Hi, I'm Jose, an <a href="https://linkedin.com/in/jose-ortiz=ba85672b0">IT Professional</a>☺</h1>
+
 <h2> Information Technology Projects</h2>
 <h1>Coming soon!!<h1>
 
