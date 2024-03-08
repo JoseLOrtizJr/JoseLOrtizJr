@@ -9,7 +9,7 @@
 
 <h2> Other Projects</h2>
 
-- <b>Installing VMs on Virtualbox<B>
+- <b>Installing VMs on Virtualbox/VMware<B>
 
 - <B>Setting Up Kali Linux<B>
 
