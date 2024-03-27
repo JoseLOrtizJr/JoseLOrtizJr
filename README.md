@@ -9,7 +9,7 @@
 
 <h2> Other Projects</h2>
 
-- <b>Installing VMs on Virtualbox/VMware<B>
+- <b>Installing VMs on Virtualbox/VMware/Hyper-V<B>
 
 - <B>Setting Up Kali Linux<B>
 
@@ -17,7 +17,7 @@
 
 - <b>Using Wireshark<b>
 
-- <b>Using open source softwares<B>
+- <b>Active Directory and Group Policy on Windows Server<B>
 
 
 and much more
