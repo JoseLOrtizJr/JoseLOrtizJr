@@ -19,8 +19,9 @@
 
 - <b>Active Directory and Group Policy on Windows Server<B>
 
+- <b>Flipper Zero...<B>
 
-and much more
+and more
 
 
 <h2>Connect with me:</h2>
