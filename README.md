@@ -3,7 +3,7 @@
 <h2> Information Technology Projects</h2>
 <h1>Coming soon!!<h1>
 
-- <b>osTicket(Help Desk Ticketing System)</b>
+- <b>osTicket (Ticketing System)</b>
   
 - <b>Micosoft Azure</b>
 
