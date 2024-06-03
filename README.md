@@ -7,15 +7,13 @@
   
 - <b>Micosoft Azure</b>
 
-<h2> Other Projects</h2>
+<h2> Future Projects</h2>
 
 - <b>Installing VMs on Virtualbox/VMware/Hyper-V<B>
 
 - <B>Setting Up Kali Linux<B>
 
-- <b>Using Hashcat<b>
-
-- <b>Using Wireshark<b>
+- <b>Hashcat<b>
 
 - <b>Active Directory and Group Policy on Windows Server<B>
 
