@@ -5,6 +5,7 @@
 
 - <b>osTicket (Ticketing System)</b>
   - <b>[osTicket: Prerequisites and Installation](https://github.com/JoseLOrtizJr/osticket-prereqs)<b>
+- <b>Active Directory and Group Policy on Windows Server<b>  
 - <b>Micosoft Azure</b>
 
 <h2> Future Projects</h2>
@@ -14,8 +15,6 @@
 - <B>Setting Up Kali Linux<B>
 
 - <b>Hashcat<b>
-
-- <b>Active Directory and Group Policy on Windows Server<B>
 
 - <b>Flipper Zero...<B>
 
