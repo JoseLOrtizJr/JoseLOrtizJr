@@ -6,7 +6,7 @@
 - <b>osTicket (Ticketing System)</b>
   - <b>[osTicket: Prerequisites and Installation](https://github.com/JoseLOrtizJr/osticket-prereqs)<b>
 - <b>Active Directory and Group Policy on Windows Server on Azure<b>
-  - <b>[osTicket: Windows Server 2022 On Azure](https://github.com/JoseLOrtizJr/ad-on-azure)<b>
+  - <b>[Windows Server 2022 On Azure](https://github.com/JoseLOrtizJr/ad-on-azure)<b>
 - <b>Micosoft Azure</b>
 
 <h2> Future Projects</h2>
