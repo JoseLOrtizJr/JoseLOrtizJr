@@ -14,9 +14,11 @@
 
 - <b>VMs on Virtualbox/VMware/Hyper-V<B>
 
-- <B>Setting Up Kali Linux<B>
+- <B>Kali Linux<B>
 
 - <b>Hashcat<b>
+
+- <b>WiFi Pineapple<b>
 
 - <b>Flipper Zero...<B>
 
