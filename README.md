@@ -7,6 +7,7 @@
   - <b>[osTicket: Installation on VirtualBox](https://github.com/JoseLOrtizJr/osticket-prereqs)<b>
 - <b>Azure Virtual Machines: Active Directory and Group Policy on Windows Server <b>
   - <b>[Active Directory on Windows Server](https://github.com/JoseLOrtizJr/ad-on-azure)<b>
+  - <b>[Active Directory on Windows Server 2](https://github.com/JoseLOrtizJr/ad-ad-lab)<b>
   - <b>[Active Directory Schema](https://github.com/JoseLOrtizJr/ad-schema)<b>
 - <b>Micosoft Azure</b>
 
